@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Hi im LunarTaku
 
-You can use the [editor on GitHub](https://github.com/LunarTaku/LunarTaku/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a web and software developer that works in javascript c# and python, some of the web dev languages i use include HTML, CSS, and mmany more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Projects
+You can contribute and download my projects using GitHub, you can also download them via my website [lunardev](https://lunardev.us).
+I have a blog too documenting all ythe work i do and all the languages i learn. Visit that by clicking [here](https://blog.lunardev.us).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Docs
+You can view all the docs for my projects by clicking any link on the nav bar. Or you can go to the project on github and click "Docs" in the README.md file. 
+PS: A dedicated website (docs.lunardev.com) will be out soon, so keep an eye on that ;)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LunarTaku/LunarTaku/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## socials 
+- twitter: [@lunartaku](https://twitter.com/lunartaku)
+- instagram: [@lunartaku](https://instagram.com/lunartaku)
+- codepen: [@lunartaku](https://codepen.com/lunartaku)
+- discord: lunar#9548
