@@ -18,7 +18,6 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">CSS, Python, Javascript, Bootstrap, Nodejs, HTML</p>
 
 <hr>
 
@@ -37,3 +36,5 @@
     <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=LunarTaku&bg_color=1e2124&text_color=8291ff&title_color=8291ff&icon_color=8291ff&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
 </p>
+
+<a rel="me" href="https://universeodon.com/@Lunar"></a>
